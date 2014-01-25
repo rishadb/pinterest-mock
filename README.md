@@ -2,4 +2,4 @@
 
 This is a mock-up of [*Pinterest*](http://pinterest.com).
 
-by [Rishad Bharucha]
+by [Rishad Bharucha](http://rishad.in)
