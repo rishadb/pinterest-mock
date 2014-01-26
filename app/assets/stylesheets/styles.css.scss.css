@@ -10,3 +10,18 @@ body {
 .footer {
 	margin-top: 50px;
 }
+
+.navbar {
+	padding-left: 255px;
+	padding-right: 255px;
+    background: transparent !important;
+    border: 0px;
+}
+
+.navbar-default {
+	background: transparent !important;
+} 
+
+.navbar-fixed-top {
+	background: transparent !important;
+}
