@@ -12,8 +12,6 @@ body {
 }
 
 .navbar {
-	padding-left: 255px;
-	padding-right: 255px;
     background: transparent !important;
     border: 0px;
 }
